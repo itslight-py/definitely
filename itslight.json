@@ -1,5 +1,6 @@
 {
   "name": "definitely",
+  "version": "0.1",
   "description": "Definitely typed."
   "author": "jc",
   "dependencies": [
