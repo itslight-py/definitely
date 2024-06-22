@@ -16,7 +16,7 @@ You can use the recommended import style:
 from its.definitely import definitely
 ```
 
-...or use with `load()`:
+...or use with `load()` if you added the `--minimal` flag when installing:
 ```python
 from itslight import load
 
