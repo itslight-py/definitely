@@ -1,0 +1,8 @@
+{
+  "name": "definitely",
+  "description": "Definitely typed."
+  "author": "jc",
+  "dependencies": [
+    "typing-extensions"
+  ]
+}
